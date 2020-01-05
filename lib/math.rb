@@ -24,11 +24,9 @@ def multiplication(num1, num2)
 
 end
 
-def modulo(num1, num2)
-  remain = num2 % num1
-  num1 = 5
-  num2 = 2
-  puts modulo
+def modulo(num2, num1)
+  num2 % num1
+  
 
 end
 
