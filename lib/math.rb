@@ -3,11 +3,8 @@ require "pry"
 
 
 def addition(num1, num2)
-  binding.pry
-  plus = num1 + num2
-  num1 = 5
-  num2 = 2
-  puts addition
+#  binding.pry
+   num1 + num2
 
 end
 
