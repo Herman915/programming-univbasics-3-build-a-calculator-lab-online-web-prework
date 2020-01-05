@@ -20,10 +20,7 @@ def division(num2, num1)
 end
 
 def multiplication(num1, num2)
-  multiply = num1 * num2
-  num1 = 5
-  num2 = 2
-  puts multiplication
+  num1 * num2
 
 end
 
