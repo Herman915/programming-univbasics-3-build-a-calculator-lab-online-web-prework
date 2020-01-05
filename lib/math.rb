@@ -14,10 +14,8 @@ def subtraction(num1, num2)
 end
 
 def division(num1, num2)
-  divide = num2 / num1
-  num1 = 5
-  num2 = 2
-  puts division
+  num2 / num1
+  
 
 end
 
