@@ -9,10 +9,7 @@ def addition(num1, num2)
 end
 
 def subtraction(num1, num2)
-  minus = num1 - num2
-  num1 = 5
-  num2 = 2
-  puts subtraction
+  num1 - num2
 
 end
 
