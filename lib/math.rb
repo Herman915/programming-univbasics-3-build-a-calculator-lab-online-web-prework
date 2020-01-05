@@ -1,3 +1,6 @@
+num1 = 5
+num2 = 2
+
 def addition(num1, num2)
   addition = num1 + num2
   puts addition
